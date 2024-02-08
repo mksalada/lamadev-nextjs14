@@ -1,5 +1,7 @@
-const Home = () => {
+const Homepage = () => {
 	return <div>Hello World!</div>;
 };
 
-export default Home;
+export default Homepage;
+
+// TIMESTAMP: STOPPED AT 18:49
